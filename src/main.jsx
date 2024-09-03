@@ -5,7 +5,7 @@ import App from './App.jsx'
 import './index.css'
 import SkillSectionComponent from './SkillSectionComponent.jsx'
 import PortfolioSectio from './PortfolioSectio.jsx'
-import Header from './header.jsx'
+import Header from './Header.jsx'
 import HeaderImageSectin from './HeaderImageSectin.jsx';
 import AboutMe from './AboutMe.jsx';
 import ContactSection from './ContactSection.jsx'
